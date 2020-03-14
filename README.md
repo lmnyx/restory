@@ -2,8 +2,8 @@
 application
 ## Roadmap
 - [x] Initialize blank express aplication
-- [ ] Add templating
-- [ ] Create helpers
+- [x] Add templating
+- [x] Create helpers
 - [ ] Write styles
 - [ ] Add backend
   - [ ] MongoDB connection (`npm i monk`)
